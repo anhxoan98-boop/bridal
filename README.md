@@ -1,2 +1,2 @@
-# bridal
+ai-bridal-atelier
 bridal app
